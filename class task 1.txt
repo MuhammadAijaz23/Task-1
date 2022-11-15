@@ -1,0 +1,12 @@
+public class task 1 
+{ 
+    public static void name (string args[])
+    { 
+        int name;
+        int age;
+        int class;
+
+ system.out.println("name,age,class");
+
+    }       
+ }   
